@@ -5,7 +5,7 @@ permalink: /publication/PNCG
 excerpt: ''
 date: 2023-07-13
 venue: 'Mathematical Programming series A'
-paperurl: '[https://arxiv.org/abs/2103.15989](https://link.springer.com/article/10.1007/s10107-023-02000-z)'
+paperurl: '[https://link.springer.com/article/10.1007/s10107-023-02000-z]'
 citation: 'Yue Xie and Stephen J. Wright. &quot;Complexity of a Projected Newton-CG Method for Optimization with Bounds.&quot; <i> Math. Program. (2023). https://doi.org/10.1007/s10107-023-02000-z.</i>.'
 ---
 ## Abstract
