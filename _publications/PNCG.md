@@ -2,9 +2,8 @@
 title: "Complexity of a Projected Newton-CG Method for Optimization with Bounds"
 collection: publications
 permalink: /publication/PNCG
-excerpt: 'To appear in <i>Mathematical Programming series A</i>'
 date: 2021-03-29
-venue: 'ArXiv'
+venue: 'Mathematical Programming series A'
 paperurl: 'https://arxiv.org/abs/2103.15989'
 citation: 'Yue Xie and Stephen J. Wright. &quot;Complexity of a Projected Newton-CG Method for Optimization with Bounds.&quot; <i>arXiv preprint, arXiv: 2103.15989.</i>.'
 ---
