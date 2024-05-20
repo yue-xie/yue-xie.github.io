@@ -17,8 +17,6 @@ Welcome to my website! Currently I am a research assistant professor in Musketee
 
 ## News
 
-May 12, 2023: Check out our new work on  randomized methods for computing optimal transport without regularization and their convergence analysis! (submitted to Journal of Scientific Computing) [https://arxiv.org/abs/2212.07046](https://arxiv.org/abs/2212.07046)
-
-Those who look for the postdoc position at HKU-IDS are welcome to check out HKU IDS Postdoctoral Research Fellowship Scheme 2023-24: [https://datascience.hku.hk/research/postdoctoral-fellowship/](https://datascience.hku.hk/research/postdoctoral-fellowship/)
+May 20, 2024: Our work on Randomized methods for computing optimal transport without regularization and their convergence analysis has been accepted by Journal of Scientific Computing [https://arxiv.org/abs/2212.07046](https://arxiv.org/abs/2212.07046)
 
 
