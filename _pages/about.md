@@ -17,6 +17,6 @@ Welcome to my website! Currently I am a research assistant professor in Musketee
 
 ## News
 
-May 20, 2024: Our work on ### Randomized methods for computing optimal transport without regularization and their convergence analysis has been accepted by <i>Journal of Scientific Computing</i> [https://arxiv.org/abs/2212.07046](https://arxiv.org/abs/2212.07046)
+May 20, 2024: Our work on Randomized methods for computing optimal transport without regularization and their convergence analysis has been accepted by <i>Journal of Scientific Computing</i> [https://arxiv.org/abs/2212.07046](https://arxiv.org/abs/2212.07046)
 
 
