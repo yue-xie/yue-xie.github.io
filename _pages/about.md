@@ -19,6 +19,6 @@ Welcome to my website! Currently I am a research assistant professor in Musketee
 
 July 1, 2024: Our work on Stochastic First-Order Methods with Non-smooth and Non-Euclidean Proximal Terms for Nonconvex High-Dimensional Stochastic Optimization has been submitted! Click [here](https://arxiv.org/abs/2406.19475) for the arXiv version.
 
-May 20, 2024: Our work on Randomized methods for computing optimal transport without regularization and their convergence analysis has been accepted by <i>Journal of Scientific Computing</i> [https://arxiv.org/abs/2212.07046](https://arxiv.org/abs/2212.07046)
+May 20, 2024: Our work on Randomized methods for computing optimal transport without regularization and their convergence analysis has been accepted by <i>Journal of Scientific Computing</i> [Link](https://link.springer.com/article/10.1007/s10915-024-02570-w).
 
 
