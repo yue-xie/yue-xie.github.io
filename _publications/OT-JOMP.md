@@ -5,7 +5,7 @@ permalink: /publication/OT-JOMP
 excerpt: ''
 date: 2024-05-20
 venue: 'Journal of Scientific Computing'
-paperurl: 'https://arxiv.org/abs/2212.07046](https://link.springer.com/article/10.1007/s10915-024-02570-w'
+paperurl: 'https://link.springer.com/article/10.1007/s10915-024-02570-w'
 citation: 'Yue Xie, Zhongjian Wang and Zhiwen Zhang. &quot;Randomized methods for computing optimal transport without regularization and their convergence analysis.&quot; <i>Journal of Scientific Computing</i>.'
 ---
 ## Abstract
