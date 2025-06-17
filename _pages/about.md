@@ -9,13 +9,15 @@ redirect_from:
 ---
 
 
-Welcome to my website! Currently I am a research assistant professor in Musketeers Foundation Institute of Data Science and Department of Mathematics at the University of Hong Kong. Before that, I was a postdoc at Wisconsin Intitute for Discovery and lucky to work with Professor [Stephen J. Wright](http://pages.cs.wisc.edu/~swright/). I received my PhD degree in Pennsylvania State University when I was fortunate to have Professor [Uday V. Shanbhag](http://www.personal.psu.edu/vvs3/) as my supervisor and thesis advisor. My research interests are continuous, stochastic and robust optimization, with all types of applications including machine learning and data science. You may find more about me in my [CV](https://yue-xie.github.io/files/cv_gatech.pdf).
+Welcome to my website! Currently I am a research assistant professor in Musketeers Foundation Institute of Data Science and Department of Mathematics at the University of Hong Kong. Before that, I was a postdoc at Wisconsin Intitute for Discovery and lucky to work with Professor [Stephen J. Wright](http://pages.cs.wisc.edu/~swright/). I received my PhD degree in Pennsylvania State University when I was fortunate to have Professor [Uday V. Shanbhag](https://ioe.engin.umich.edu/people/shanbhag-uday-v/) as my supervisor and thesis advisor. My research interests are continuous, stochastic and robust optimization, with all types of applications including machine learning and data science. You may find more about me in my [CV](https://yue-xie.github.io/files/CV_2025.pdf).
 
 ### I am hiring postdocs and research assistants at University of Hong Kong (More details are in [JobAd](https://yue-xie.github.io/files/Job_AD_2025.pdf)). Outstanding candidates for Phd position are also welcome! Feel free to contact me (yxie21@hku.hk) if you are interested! 
 
 
 
 ## News
+
+Jun 12, 2025: Our work on Resolution of l1-norm Minimization via Two-metric Adaptive Projection Method has been submitted! Click [here](https://arxiv.org/abs/2504.12260) for the arXiv version.
 
 Sep 29, 2024: Our work on Stochastic First-Order Methods with Non-smooth and Non-Euclidean Proximal Terms for Nonconvex High-Dimensional Stochastic Optimization has been submitted and under 2nd round review of Mathematical Programming! Click [here](https://arxiv.org/abs/2406.19475) for the arXiv version.
 
