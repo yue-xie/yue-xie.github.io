@@ -17,6 +17,8 @@ Welcome to my website! Currently I am a research assistant professor in Musketee
 
 ## News
 
+Sep 17, 2025: Our work on Tackling High-Dimensional Nonconvex Stochastic Optimization via Stochastic First-Order Methods with Non-smooth Proximal Terms and Variance Reduction has been on arXiv [link](https://arxiv.org/abs/2509.13992). This work includes significant improvement over the previous one [link](https://arxiv.org/abs/2406.19475) in many aspects. Behind the improved outcomes are persistent exploration motivated by pursuit of math completeness, and invaluable disucssions with ingenious scholars. I personally like the work and the story behind it very much.
+
 Jun 12, 2025: Our work on Resolution of l1-norm Minimization via Two-metric Adaptive Projection Method has been submitted! Click [here](https://arxiv.org/abs/2504.12260) for the arXiv version.
 
 Sep 29, 2024: Our work on Stochastic First-Order Methods with Non-smooth and Non-Euclidean Proximal Terms for Nonconvex High-Dimensional Stochastic Optimization has been submitted and under 2nd round review of Mathematical Programming! Click [here](https://arxiv.org/abs/2406.19475) for the arXiv version.
