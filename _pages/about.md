@@ -15,6 +15,8 @@ Welcome to my website! Currently I am a research assistant professor in Musketee
 
 ## News
 
+Dec 17, 2025: Our work on A Parameter-Free Stochastic LineseArch Method (SLAM) for Minimizing Expectation Residuals has been submitted and on arXiv ([link](https://arxiv.org/abs/2512.14979)). The algorithm is concise and intuitive - combining sampling with traditional line search scheme to make the stepsize adaptive. The analysis is also intuitive and ``simple", in a way that I am surprised that no one seems to discover it before. 
+
 Sep 17, 2025: Our work on Tackling High-Dimensional Nonconvex Stochastic Optimization via Stochastic First-Order Methods with Non-smooth Proximal Terms and Variance Reduction has been on arXiv ([link](https://arxiv.org/abs/2509.13992)). This work includes significant improvement over the previous one ([link](https://arxiv.org/abs/2406.19475)) in many aspects. Behind the improved outcomes are persistent exploration motivated by pursuit of math completeness, and invaluable disucssions with ingenious scholars. I personally like the work and the story behind it very much.
 
 Jun 12, 2025: Our work on Resolution of l1-norm Minimization via Two-metric Adaptive Projection Method has been submitted! Click [here](https://arxiv.org/abs/2504.12260) for the arXiv version.
